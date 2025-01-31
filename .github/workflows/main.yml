@@ -1,5 +1,5 @@
 # Name of workflow
-name: Lint workflow 3
+name: Lint workflow 4
 
 # Trigger workflow on all pull requests
 on:
